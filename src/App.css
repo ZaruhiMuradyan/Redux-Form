@@ -34,3 +34,8 @@ h2 {
     padding-bottom: 5px;
     border-bottom: 2px solid cornflowerblue;
 }
+
+select {
+    margin-left: 10px;
+    font-size: 15px;
+}
